@@ -121,8 +121,10 @@ html{
     25%{
         content: "a Cloud Engineer";
     }
-   
-    75%{
+     25%{
+        content: "Transforming Ideas into Reliable Cloud Systems";
+    }
+    50%{
         content: "a Graduate";
     }
 }
@@ -412,3 +414,4 @@ footer{
 
 
 }
+
