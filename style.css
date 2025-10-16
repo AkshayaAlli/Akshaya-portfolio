@@ -119,11 +119,11 @@ html{
 
 @keyframes textanim{
     25%{
-        content: "a Web Developer";
+        content: "a Cloud Engineer";
     }
    
     75%{
-        content: "a Student";
+        content: "a Graduate";
     }
 }
 .sm a{
@@ -409,5 +409,6 @@ footer{
     .interest{
         width: 100%;
     }
+
 
 }
